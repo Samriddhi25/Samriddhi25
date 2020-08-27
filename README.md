@@ -6,7 +6,7 @@
 
 ### I'm a Otaku <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> and Computer Science enthusianst who mainly programs in JavaScript and has recently ventured out into Python.
 
-- 📚 I’m currently working on developing new skills and explore more to see what I ❤. 
+- 📚 I’m currently working on developing new skills and exploring more to see what I ❤. 
 - 👯 Actively participating in Open source and community projects.
 - 🌱 I’m currently learning about Data Structures and App development using Flutter.
 - 🤓 Experienced in Web Development and React Native.
@@ -19,13 +19,17 @@
 
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 
-![Samriddhi25 github stats](https://github-readme-stats.vercel.app/api?username=Samriddhi25&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Samriddhi25 github stats](https://github-readme-stats.vercel.app/api?username=Samriddhi25&show_icons=truee)
 
-![Samriddhi25 most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Samriddhi25&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Samriddhi25 most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Samriddhi25)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<!-- <p align="center"> 
+<!-- 
+![Samriddhi25 github stats](https://github-readme-stats.vercel.app/api?username=Samriddhi25&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<p align="center"> 
+
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Samriddhi25/count.svg" />  🔭
 </p>
