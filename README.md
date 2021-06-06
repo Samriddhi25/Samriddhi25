@@ -30,7 +30,7 @@
 
 [![](https://img.shields.io/badge/LinkedIn-samriddhiagarwal25-blue)](https://www.linkedin.com/in/samriddhiagarwal25/)
 [![](https://img.shields.io/badge/Gmail-samriddhiagarwal12.com-red)](mailto:samriddhiagarwal12.com)
-[![](https://img.shields.io/badge/Twitter-AgSamriddhi25-brightgreen)](https://twitter.com/SamriddhiAg25)
+[![](https://img.shields.io/badge/Twitter-SamriddhiAg25-brightgreen)](https://twitter.com/SamriddhiAg25)
 [![](https://img.shields.io/badge/Instagram-samriddhiagarwal25-ff69b4)](https://www.instagram.com/samriddhiagarwal25/)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
